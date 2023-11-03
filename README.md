@@ -1,6 +1,6 @@
 # Snapdrop 
 
-[Snapdrop](https://snapdrop.net): local file sharing in your browser. Inspired by Apple's Airdrop.
+[Snapdrop](https://nearby-share.wuaze.com/#): local file sharing in your browser. Inspired by Apple's Airdrop.
 
 
 #### Snapdrop is built with the following awesome technologies:
